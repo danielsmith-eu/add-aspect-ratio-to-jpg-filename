@@ -1,0 +1,14 @@
+{
+  "name": "add-aspect-ratio-to-jpg-filename",
+  "version": "1.0.0",
+  "description": "Add the aspect ratio of a JPG to the filename (e.g. for printing online)",
+  "main": "add-ratio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Alexander Smith <daniel@danielsmith.eu> (https://danielsmith.eu/)",
+  "license": "BSD",
+  "dependencies": {
+    "imagemagick": "^0.1.3"
+  }
+}
